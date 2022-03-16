@@ -34,7 +34,7 @@ flutter pub get
 - Flutter bloc (State management to control data between screens and solve set state problem and more performance)
 - Bloc (to use Bloc observer for observe your project states)
 
-####Note :
+#### Note :
 
 * Project supported last flutter updates for packages and null safety
 * Project used perfect flutter files architecture:
